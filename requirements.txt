@@ -1,0 +1,8 @@
+sympy
+ultralytics
+#ttkbootstrap
+#roboflow
+#memory_profiler
+pygame
+tk
+pygame-menu
