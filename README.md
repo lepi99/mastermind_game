@@ -22,10 +22,10 @@ bash build_venv.sh
 ```Bash
 
 # For terminal gameplay:
-python mastermind_logic.py
+python  pygame2d/mstmdn_secret/mastermind_logic.py
 
 # For UI gameplay (still under development):
-python mastermind_ui.py
+python pygame2d/main_menu.py
 
 ```
 ## How to Play
