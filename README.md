@@ -1,5 +1,5 @@
 # Pygame Mastermind
-A classic code-breaking game, Mastermind, under development using Python, Pygame, pygame_menu and tkinter.
+A classic code-breaking game, Mastermind, under development using Python, Pygame, pygame_menu and tkinter, with a custom-designed UI and logo.
 
 ## Key Features
 * Intuitive UI: Easy-to-navigate menus and gameplay visuals powered by Pygame and pygame_menu.
