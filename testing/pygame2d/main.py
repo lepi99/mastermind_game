@@ -21,10 +21,6 @@ pygame.display.set_caption('MSTMND SECRET')
 pygame.display.set_icon(GAME_ICON_SQUARED)
 
 
-
-
-
-
 WOOD_BKG=pygame.transform.scale(WOOD_BKG_IMAGE,([*BOARD_POSITION[2:]]))
 WOOD_BOX=pygame.transform.scale(WOOD_BOX_IMAGE,(240,80))
 MAIN_ICON=pygame.transform.scale(GAME_ICON_TITLE,(400,80))
@@ -107,8 +103,6 @@ def main():
         board.draw(WIN, WOOD_BKG, rect_bk, WOOD_BOX, hide_box,FULL_BACKGROUND)
         WIN.blit(WOOD_BOX,(hide_box.x,hide_box.y))
         WIN.blit(MAIN_ICON,(title_box.x,title_box.y))
-
-
 
         bottom_button_color = GREY
         if bottom_but.collidepoint(pos):
