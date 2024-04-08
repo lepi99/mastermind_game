@@ -1,5 +1,5 @@
-# Pygame Mastermind - In developement
-A classic code-breaking game, Mastermind, under development using Python, Pygame, pygame_menu and tkinter.
+# Pygame Mastermind
+A classic code-breaking game, Mastermind, under development using Python, Pygame, pygame_menu and tkinter, with a custom-designed UI and logo.
 
 ## Key Features
 * Intuitive UI: Easy-to-navigate menus and gameplay visuals powered by Pygame and pygame_menu.
@@ -22,10 +22,10 @@ bash build_venv.sh
 ```Bash
 
 # For terminal gameplay:
-python mastermind_logic.py
+python  pygame2d/mstmdn_secret/mastermind_logic.py
 
 # For UI gameplay (still under development):
-python mastermind_ui.py
+python pygame2d/main_menu.py
 
 ```
 ## How to Play
@@ -41,7 +41,7 @@ python mastermind_ui.py
 ## Screenshots 
 | Image 1                               | Image 2                               |
 | ------------------------------------- | ------------------------------------- |
-| [Image of options screen](images/img1.jpg) | [Image of gameplay screen](images/img2.jpg) | 
+| [Image of options screen](pygame2d/assets/Options.PNG) | [Image of gameplay screen](pygame2d/assets/game_ss.PNG) | 
 
 
 ## Future Development
