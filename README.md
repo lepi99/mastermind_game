@@ -1,5 +1,4 @@
-![Data flow diagram](/pygame2d/assets/mstmnd_log.png)   
-![Data flow diagram](/pygame2d/assets/mstemind-secret-color-code-puzzle-logo.svg) 
+![Logo](/pygame2d/assets/mstemind-secret-color-code-puzzle-logo.svg) 
 # Pygame Mastermind
 A classic code-breaking game, Mastermind, under development using Python, Pygame, pygame_menu and tkinter, with a custom-designed UI and logo.
 
@@ -43,8 +42,8 @@ python pygame2d/main_menu.py
 ## Screenshots 
 | Image 1                               | Image 2                               |
 | ------------------------------------- | ------------------------------------- |
-| [Image of options screen](pygame2d/assets/Options.PNG) | [Image of gameplay screen](pygame2d/assets/game_ss.PNG) | 
-
+| ![Image of options screen](pygame2d/assets/Options.PNG) | ![Image of gameplay screen](pygame2d/assets/game_ss.PNG) | 
+![Image of options screen](/pygame2d/assets/mstemind-secret-color-code-puzzle-logo.svg) 
 
 ## Future Development
 * Connect UI to game logic.
