@@ -1,3 +1,5 @@
+![Data flow diagram](/pygame2d/assets/mstmnd_log.png) 
+
 # Pygame Mastermind
 A classic code-breaking game, Mastermind, under development using Python, Pygame, pygame_menu and tkinter, with a custom-designed UI and logo.
 
