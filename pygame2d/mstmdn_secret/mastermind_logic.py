@@ -53,7 +53,7 @@ class mastermindgame:
             nco=comb(cc)
             self.combinations.append(nco)
             self.count_possible_combs+=len(nco.get_combs())
-        print(self.combinations)
+        #print(self.combinations)
 
 
 
